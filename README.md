@@ -1,0 +1,2 @@
+# SimuladorDeSensor
+Simula um sensor
